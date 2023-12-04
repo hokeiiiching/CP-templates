@@ -14,7 +14,7 @@ For example, LSOne(90) =
 ==
 0 000 010 
 -> Least significant one bit is 2.
-
+*/
 
 
 note:
