@@ -7,3 +7,7 @@ Resources used (in no particular order):
 - Competitive Programming Handbook
 - An Introduction to the USA Computing Olympiad
 - Codeforces editorials
+- cp-algorithms.com
+
+  Goal : Update the codebase with the algorithm 1 day after learning it
+  Reason: Spaced reptition improves memory retention
