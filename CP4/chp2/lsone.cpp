@@ -17,6 +17,6 @@ For example, LSOne(90) =
 */
 
 
-note:
+/* note:
 -(S) == NOT(S) + 1
-least significant means rightmost.
+least significant means rightmost. */
